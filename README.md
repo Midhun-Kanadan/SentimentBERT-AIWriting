@@ -61,12 +61,14 @@ These examples demonstrate how `SentimentBERT-AIWriting` can effectively classif
 
 While `SentimentBERT-AIWriting` is trained on a diverse dataset, no model is immune from bias. The model's predictions might still be influenced by inherent biases in the training data. It's important to consider this when interpreting the model's output, especially for sensitive applications.
 
-## Contributions and Feedback
-
-We welcome contributions to this model! You can suggest improvements or report issues by opening an issue on this repository.
-
-If you find this model useful for your projects or research, feel free to cite it and provide feedback on its performance.
-
 ## Finetuning Code
 
 The code used for fine-tuning the `SentimentBERT-AIWriting` model can be found in the `finetuning_script.py` file.
+
+
+## Contributions and Feedback
+
+I welcome contributions to this model! You can suggest improvements or report issues by opening an issue on this repository.
+
+If you find this model useful for your projects or research, feel free to cite it and provide feedback on its performance.
+
