@@ -63,7 +63,7 @@ While `SentimentBERT-AIWriting` is trained on a diverse dataset, no model is imm
 
 ## Finetuning Code
 
-The code used for fine-tuning the `SentimentBERT-AIWriting` model can be found in the `finetuning_script.py` file.
+The code used for fine-tuning the `SentimentBERT-AIWriting` model can be found in the [`finetuning_script.py`](./finetuning_script.py) file.
 
 
 ## Contributions and Feedback
